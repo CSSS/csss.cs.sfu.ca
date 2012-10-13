@@ -4,7 +4,8 @@
 // Ensure we've been called internally
 defined('CSSS') or die('This is an included page, and cannot be called by it self.');
 
-include("../../eventkey.inc");
+include("passwords.priv"); // this is a private file excluded from the git which contains pass-phrases and hashes
+// it declares $site for the following PHP
 
 function iCalDecoder($site){
 		$ical = file_get_contents($site);

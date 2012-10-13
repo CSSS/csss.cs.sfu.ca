@@ -1,0 +1,3 @@
+# to hold our private hashes and passwords so they don't enter the public git
+
+*.priv
