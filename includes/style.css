@@ -1,0 +1,181 @@
+body,
+html {
+margin:0;
+padding:0;
+color:#333;
+font: .9em Arial, Helvetica, sans-serif;
+background:#a7a8a0;
+}
+
+a {
+color:#b5111a;
+text-decoration:underline;
+}
+
+a:hover {
+color:#54090d;
+text-decoration:none;
+}
+
+#header {
+height:100px;
+}
+
+#nav  ul {
+background: #b5111a;
+margin: 0;
+padding: 0;
+height: 20px;
+}
+
+#nav li {
+float: left;
+width: 125px;
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+#nav a {
+color: #fff;
+display: block;
+line-height: 20px;
+text-align: center;
+text-decoration: none;
+border-bottom: 5px solid #fff;
+}
+
+#nav a:hover {
+color: #fff;
+text-decoration: none;
+border-bottom: 5px solid #cb5a60;
+}
+
+#wrapper {
+width: 800px;
+margin: 0 auto;
+padding: 0px;
+background-color: #FFF;
+}
+
+#main {
+background-color: #FFF;
+width: 530px;
+padding: 10px;
+float: left;
+}
+
+#main h1 {
+border-bottom:1px solid #999;
+font-size:1.8em;
+color: #b5111a;
+margin-top: 0px;
+}
+
+#main p {
+padding: 5px 20px 5px;
+}
+
+#content {
+background-color: #FFF;
+width: 780px;
+padding: 10px;
+float: left;
+}
+
+#content h1 {
+border-bottom:1px solid #999;
+font-size:1.8em;
+color: #b5111a;
+}
+
+#content h2 {
+font-size:1.1em;
+background-color: #FFF;
+color: #54090d;
+padding: 3px;
+border-bottom: 2px solid #b5111a;
+}
+
+#content h2:hover {
+text-decoration: none;
+color: #54090d;
+border-bottom: 2px solid #54090d;
+}
+
+#content a {
+text-decoration: none;
+}
+
+#content li {
+line-height: 1.8em;
+}
+
+.iconsprite {
+background:url(/images/icons.png) no-repeat top left;
+width:18px;
+height:18px;
+display: inline-block;
+}
+
+.pdf {
+background-position: -36px -18px;
+}
+
+.txt {
+background-position: 0px -18px;
+}
+
+.png {
+background-position: 0px 0px;
+}
+
+.closed {
+background-position: -36px 0px;
+}
+
+.open {
+background-position: -18px -18px;
+}
+
+#content p {
+padding: 5px 20px 5px;
+}
+
+#sidebar {
+background-color: #FFF;
+width: 230px;
+padding: 10px;
+float: right;
+}
+
+.box {
+background-color: #FFF;
+height: auto;
+width: 220px;
+border: 1px solid #999;
+margin-bottom: 10px;
+padding: 5px;
+}
+
+.box h1, h2 {
+font-size:1em;
+color: #b5111a;
+}
+
+.box h2 {
+font-weight: bold;
+margin-bottom: 0px;
+}
+
+#footer {
+clear: both;
+background-color: #a7a8a0;
+color: #fff;
+text-align:center;
+padding:10px;
+}
+
+#footer a {
+color: #fff;
+}
