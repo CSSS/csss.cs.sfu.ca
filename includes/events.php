@@ -81,8 +81,11 @@ function formatTime($oldtime){
 	$month = array('Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');
 	
 	$time['MONTH'] = $month[(int)$time['MONTH']-1];
-
-	$time['HOUR'] = substr($time['TIME'], 0, 2) - 7; // -7 to change to Pacific Standard Time
+	// DST fix
+	date_default_timezone_set('America/Vancouver');
+	//$time['HOUR'] = substr($time['TIME'], 0, 2) - 7; // -7 to change to Pacific Standard Time
+	$time['HOUR'] = substr($time['TIME'], 0, 2) + ((int)date("O")/100); // add on the timezone change (-7 for normal, -8 for DST)
+		
 	$time['MIN'] = substr($time['TIME'], 2, 2);
 	
 	// Check if timezone change also changes the day
