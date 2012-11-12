@@ -121,6 +121,10 @@ If you are interested in volunteering with the CSSS, please email
 		Connect with us!
 	</p>
   </div>
+  <div class="box">
+	<h1>CUTC Infect</h1>
+	<a href='http://infect.cutc.ca/' target='_blank'><img src='images/CUTC-Logo.png' /></a>
+  </div>
   <!-- BEGIN EVENTS -->
   <?php @include("includes/events.php"); ?>
   <!-- END EVENTS -->
