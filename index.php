@@ -52,12 +52,12 @@ define('CSSS', 1);
     Kenneth Kwok - <b>President</b><br/>
     Nicholas Hoekstra - <b>Vice-President</b><br/>
     Allan Saravi - <b>Treasurer</b><br/>
-    Laura Antonescu - <b>Director of Resources</b><br/>
-    Kyle Chutskoff - <b>Director of Activities</b><br/>
-    Paul Allan - <b>Secretary</b><br/>
-    Jeremy Lo - <b>Executive at Large</b><br/>
-	Claudia Kam - <b>First Year Representative</b><br/>
-	Siddhant Agrawal - <b>First Year Representative</b>
+    Matt Grandy - <b>Director of Resources</b><br/>
+    Jack Anderson - <b>Director of Activities</b><br/>
+    Kyle Chutskoff - <b>Secretary</b><br/>
+    Paul Allan - <b>Executive at Large</b><br/>
+    Claudia Kam - <b>First Year Representative</b><br/>
+    Siddhant Agrawal - <b>First Year Representative</b>
   </p>
   <h1>
 	Mailing Lists
