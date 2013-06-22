@@ -4,7 +4,7 @@ defined('CSSS') or die('This is an included page, and cannot be called by it sel
 ?>
       <div id="footer">
         <p>
-          Copyright &copy; <a href="mailto:csss-exec@sfu.ca">Computing Science Student Society</a> 2009-2012
+          Copyright &copy; <a href="mailto:csss-exec@sfu.ca">Computing Science Student Society</a> 2009-<?php echo date("Y"); ?>
         </p>
       </div>
     </div>
