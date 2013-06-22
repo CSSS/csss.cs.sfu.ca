@@ -49,15 +49,13 @@ define('CSSS', 1);
     Current Executives
   </h1>
   <p>
-    Kenneth Kwok - <b>President</b><br/>
-    Nicholas Hoekstra - <b>Vice-President</b><br/>
-    Allan Saravi - <b>Treasurer</b><br/>
+    Navin Gidha - <b>President</b><br/>
+    Steven Xu - <b>Vice-President</b><br/>
+    Mark Lui - <b>Treasurer</b><br/>
     Matt Grandy - <b>Director of Resources</b><br/>
-    Jack Anderson - <b>Director of Activities</b><br/>
-    Kyle Chutskoff - <b>Secretary</b><br/>
-    Paul Allan - <b>Executive at Large</b><br/>
-    Claudia Kam - <b>First Year Representative</b><br/>
-    Siddhant Agrawal - <b>First Year Representative</b>
+    Ivan Jelinic - <b>Director of Activities</b><br/>
+    Chris Hamilton - <b>Secretary</b><br/>
+    Daniel Haselhan - <b>Executive at Large</b>
   </p>
   <h1>
 	Mailing Lists
