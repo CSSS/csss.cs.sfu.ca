@@ -24,9 +24,6 @@ function dirList ($dir, $level = 0)
 	$files = scandir($dir, $level==0); // If $level is 0 (top directory) sort DESC (parameter=1), otherwise sort ASC
 
 	// Remove unwanted entries
-	if (($idx = array_search('.', $files)) !== FALSE) unset($files[$idx]);
-	if (($idx = array_search('..', $files)) !== FALSE) unset($files[$idx]);
-	if (($idx = array_search('.svn', $files)) !== FALSE) unset($files[$idx]);
 	if (($idx = array_search('minutes_pre1990_unknown-01.png', $files)) !== FALSE) unset($files[$idx]);
 	$files = array_values($files);
 
@@ -34,7 +31,7 @@ function dirList ($dir, $level = 0)
 	if ($level != 0)
 	{
 		for($i=count($files)-1, $j=0 ; $i >= $j ; $i--)
-	        {
+		{
 			if (is_dir($dir.'/'.$files[$i]))
 			{
 				array_unshift($files, $files[$i]);	// Move directory to the front of the array
@@ -45,8 +42,10 @@ function dirList ($dir, $level = 0)
 		}
 	}
 
-	foreach($files as $file)
-	{
+	foreach($files as $file) {
+		if ($file[0] == '.') {
+			continue;
+		}
 		// if the file is actually a directory
 		if (is_dir($dir.'/'.$file)) 
 		{	
