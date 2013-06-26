@@ -15,18 +15,16 @@ define('TITLE', "Constitution");
  
  <div id="content">
 
-<a href="ConstitutionJune2011.pdf">PDF Version</a><br>
+<a href="Constitution_January_2013.pdf">PDF Version</a><br>
 
  
-<h1 align="center">Simon Fraser Student Society <br />
-
- Computing Science Student Society </h1>
-
+<h1 align="center">Simon Fraser Student Society<br />
+ Computing Science Student Society<br />
+Constitution </h1>
 
 <div class="p"><!----></div>
 
-<h3 align="center">June 2011 </h3>
-
+<h3 align="center">January 2013 </h3>
 
 <div class="p"><!----></div>
 
@@ -39,8 +37,10 @@ define('TITLE', "Constitution");
 >3&nbsp; Membership</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc3.1"
 >3.1&nbsp; Automatic Membership</a><br />
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc3.2"
->3.2&nbsp; Honourary Membership</a><br />
+>3.2&nbsp; Honourary  english Membership</a><br />
+
 <a href="#tth_sEc4"
 >4&nbsp; Organisation</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.1"
@@ -48,9 +48,9 @@ define('TITLE', "Constitution");
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.1.1"
 >4.1.1&nbsp; The Executive</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.1.2"
->4.1.2&nbsp; Forum Representative</a><br />
+>4.1.2&nbsp; Elected Representatives</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.1.3"
->4.1.3&nbsp; Departmental Student Representatives</a><br />
+>4.1.3&nbsp; Appointed Representatives</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.1.4"
 >4.1.4&nbsp; Signing Officers</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.2"
@@ -58,7 +58,7 @@ define('TITLE', "Constitution");
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.2.1"
 >4.2.1&nbsp; Undergraduate Programmes Committee/Undergraduate Curriculum Committee</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.2.2"
->4.2.2&nbsp; Deans' Student Advisory Committee</a><br />
+>4.2.2&nbsp; Dean's Student Advisory Committee</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.2.3"
 >4.2.3&nbsp; Other Committees</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.3"
@@ -67,6 +67,8 @@ define('TITLE', "Constitution");
 >4.3.1&nbsp; Activities Committee</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.3.2"
 >4.3.2&nbsp; Policy Committee</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc4.3.3"
+>4.3.3&nbsp; Frosh Week Committee</a><br />
 <a href="#tth_sEc5"
 >5&nbsp; Meetings</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc5.1"
@@ -82,7 +84,7 @@ define('TITLE', "Constitution");
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc5.4"
 >5.4&nbsp; Quorum</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc5.5"
->5.5&nbsp; Voting</a><br />
+>5.5&nbsp; Voting and Motions</a><br />
 <a href="#tth_sEc6"
 >6&nbsp; Elections</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc6.1"
@@ -94,9 +96,11 @@ define('TITLE', "Constitution");
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc6.4"
 >6.4&nbsp; First Year Representatives</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc6.5"
->6.5&nbsp; Forum Representative</a><br />
+>6.5&nbsp; Elected Representatives</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc6.6"
->6.6&nbsp; Recall</a><br />
+>6.6&nbsp; Appointed Representatives</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#tth_sEc6.7"
+>6.7&nbsp; Recall</a><br />
 <a href="#tth_sEc7"
 >7&nbsp; Standing Orders</a><br />
 <a href="#tth_sEc8"
@@ -105,209 +109,165 @@ define('TITLE', "Constitution");
 >9&nbsp; Amendments</a><br />
 <a href="#tth_sEc10"
 >10&nbsp; Dissolution</a><br />
-<a href="#tth_sEcA"
->A&nbsp; Standing Orders of the Computing Science Student Society</a><br />
-
 
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc1">
 1</a>&nbsp;&nbsp;Name</h2>
 
-
 <div class="p"><!----></div>
 The name of this organisation shall be the "Computing Science Student
-
-Society" (From here on referred to as the CSSS).
-
+Society" (from here on referred to as the CSSS), a sub-chapter of
+the "Simon Fraser Student Society" (from here on referred to as
+the SFSS). All mentions of the "Society" within this document
+shall be in direct reference to the CSSS.
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc2">
 2</a>&nbsp;&nbsp;Purpose</h2>
 
-
 <div class="p"><!----></div>
-The society exists for the furtherance of the following objectives:
-
+The Society exists for the furtherance of the following objectives:
 
 <ul>
 <li> The promotion of the interests of students within the School of Computing
-
 Science.
 <div class="p"><!----></div>
 </li>
 
 <li> The promotion of the interests of CSSS members within the Simon Fraser
-
 Student Society.
 <div class="p"><!----></div>
 </li>
 
-<li> The organisation of activities, of educational, entertainment and
-
+<li> The organisation of activities, of educational, entertainment, and
 career value, for members of the CSSS.
 <div class="p"><!----></div>
 </li>
 
 <li> The promotion of the CSSS and the interests of its members within
-
 the community at large.
 <div class="p"><!----></div>
 </li>
 
-<li> The aims of the CSSS shall be consistent with the SFSS constitution
-
-and by-laws.
+<li> The aims of the CSSS shall be consistent with the SFSS Constitution
+and By-Laws.
 <div class="p"><!----></div>
 </li>
 </ul>
-
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc3">
 3</a>&nbsp;&nbsp;Membership</h2>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc3.1">
 3.1</a>&nbsp;&nbsp;Automatic Membership</h3>
 
-
 <div class="p"><!----></div>
 Automatic membership shall be extended to:
 
-
 <ul>
-<li> All students who are declared majors, minors or honours in any programme
-
+<li> All students who are declared majors, minors or honours in any 
 of study offered at the undergraduate level by the School of Computing
-
 Science.
 <div class="p"><!----></div>
 </li>
 
 <li> All students who are currently enrolled in any undergraduate course
-
-offered by the School of Computing Science. Note that this includes
-
-courses labelled MACM.
+offered by the School of Computing Science.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc3.2">
-3.2</a>&nbsp;&nbsp;Honourary Membership</h3>
-
+3.2</a>&nbsp;&nbsp;Honourary</h3>
 
 <div class="p"><!----></div>
 Honourary, non-voting membership shall be extended:
 
-
 <ul>
-<li> For a period of one year, by 2/3 majority vote at a general meeting,
-
-to individuals that have provided substantial service to the CSSS
-
-.
+<li> For a period of one year, by a two-thirds (2/3) majority vote at
+a General Meeting, to individuals that have provided substantial service
+to the CSSS.
 <div class="p"><!----></div>
 </li>
 </ul>
-
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc4">
 4</a>&nbsp;&nbsp;Organisation</h2>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc4.1">
 4.1</a>&nbsp;&nbsp;Officers</h3>
-
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.1.1">
 4.1.1</a>&nbsp;&nbsp;The Executive</h4>
 
-
 <div class="p"><!----></div>
-The executive shall consist of the President, Vice-President, Director
-
+The Executive shall consist of the President, Vice-President, Director
 of Resources, Director of Activities, Treasurer, Secretary, Executive
-
-at Large and two(2) First Year Representatives. The President<font color="#000000">,
-
-Vice-President</font> and Treasurer shall have a one year term of office.
-
-The Director of<font color="#000000"> Resources, </font>Director of<font color="#000000">
-
-Activities,</font> Secretary and Executive at Large shall have a one semester
-
-term of office. The First Year Representatives shall have a term of
-
-office consisting of the Fall and Spring semesters. 
-
+at Large, and two First Year Representatives. The President, Vice-President,
+and Treasurer shall have a one year term of office. The Director of
+Resources, Director of Activities, Secretary, and Executive at Large
+shall have a one semester term of office. The First Year Representatives
+shall have a term of office consisting of the Fall and Spring semesters. 
 
 <ul>
 <li> President<br />
-
 The President shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
-<li> Carry out the business of the Computing Science Student Society as
-
-directed by decisions of the membership, and in accordance with this
-
-constitution, by delegation of duties to other members of the Society
-
-as necessary in order to ensure well being of the Society.
+<li> Carry out the business and upkeep of the CSSS, including the delegation
+of duties to other members of the Society as necessary and in accordance
+with this Constitution, as directed by the decisions of the membership,
+in order to ensure the well-being of the Society.
 <div class="p"><!----></div>
 </li>
 
-<li> Be responsible for calling regular and special general meetings.
+<li> Be responsible for calling General Meetings.
 <div class="p"><!----></div>
 </li>
 
-<li> Assume ex officio membership on all committees within and to which
-
-the Computing Science Student Society appoints representatives.
+<li> Assume ex officio membership on all committees within the CSSS and
+to which the CSSS appoints representatives.
 <div class="p"><!----></div>
 </li>
 
-<li> Act as official spokesperson and representative for the Computing
-
-Science Student Society.
+<li> Act as official spokesperson and representative for the CSSS.
 <div class="p"><!----></div>
 </li>
 
 <li> Be the official contact with the School of Computing Science and its
-
 representatives.
 <div class="p"><!----></div>
 </li>
 
 <li> Be the official contact with the Simon Fraser Student Society and
-
 its representatives.
 <div class="p"><!----></div>
 </li>
 
-<li> Be a signing officer of the Society, including the Society's Bank
+<li> Compile a semester contact list of the executive members for the School
+of Computing Science and the Student Union Organiser.
+<div class="p"><!----></div>
+</li>
 
+<li> Be responsible for monitoring all projects funded through the Society.
+<div class="p"><!----></div>
+</li>
+
+<li> Be a signing officer of the Society, including the Society's Bank
 Account.
 <div class="p"><!----></div>
 </li>
 
-<li> Be responsible for monitoring all projects funded through the society.
-<div class="p"><!----></div>
-</li>
-
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
 <div class="p"><!----></div>
 </li>
@@ -316,21 +276,17 @@ member who will fill this position.
 </li>
 
 <li> Vice-President<br />
-
 The Vice-President shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
 <li> Chair all meetings or shall share or delegate this task on direction
-
-from a general meeting.
+from a General Meeting.
 <div class="p"><!----></div>
 </li>
 
 <li> Perform public relations tasks on behalf of the CSSS in order to promote
-
 the CSSS and expand its membership.
 <div class="p"><!----></div>
 </li>
@@ -339,28 +295,23 @@ the CSSS and expand its membership.
 <div class="p"><!----></div>
 </li>
 
-<li> Provide a line of communication between the CSSS and graduate students
-
+<li> Provide a line of communication between the CSSS, graduate students,
 and alumni.
 <div class="p"><!----></div>
 </li>
 
 <li> Assume the duties of the President in the event that the President
-
 is unable or unavailable to carry them out, or that the position of
-
 President becomes vacant.
 <div class="p"><!----></div>
 </li>
 
 <li> Be a signing officer of the Society, including the Society's Bank
-
 Account.
 <div class="p"><!----></div>
 </li>
 
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
 <div class="p"><!----></div>
 </li>
@@ -369,33 +320,25 @@ member who will fill this position.
 </li>
 
 <li> Director of Resources<br />
-
 The Director of Resources shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
-<li> Be responsible for ensuring the administration of maintenance, upkeep
-
-and smooth operation of all CSSS resources; including but not limited
-
-to common room(s), photocopier(s), vending machine(s), website and
-
-exam files; such that these resources remain in good working order
-
+<li> Be responsible for ensuring the administration of maintenance, upkeep,
+and smooth operation of all CSSS resources and assets, including but
+not limited to common room(s), photocopier(s), vending machine(s),
+and exam files, such that these resources remain in good working order
 and are usable by the membership.
 <div class="p"><!----></div>
 </li>
 
 <li> Be a signing officer of the Society, including the Society's Bank
-
 Account.
 <div class="p"><!----></div>
 </li>
 
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
 <div class="p"><!----></div>
 </li>
@@ -404,38 +347,27 @@ member who will fill this position.
 </li>
 
 <li> Director of Activities<br />
-
 The Director of Activities shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
-<li> Chair the activities committee at their respective campus.
+<li> Chair the activities committee.
 <div class="p"><!----></div>
 </li>
 
 <li> Plan, organise, and execute all CSSS sponsored events or delegate
-
 such responsibilities as necessary.
 <div class="p"><!----></div>
 </li>
 
 <li> Be a signing officer of the Society, including the Society's Bank
-
 Account.
 <div class="p"><!----></div>
 </li>
 
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
-<div class="p"><!----></div>
-</li>
-
-<li> Write a report containing procedures and contacts for each class of
-
-event for future CSSS members.
 <div class="p"><!----></div>
 </li>
 </ul>
@@ -443,9 +375,7 @@ event for future CSSS members.
 </li>
 
 <li> Treasurer<br />
-
 The Treasurer shall:
-
 
 <div class="p"><!----></div>
 
@@ -454,18 +384,16 @@ The Treasurer shall:
 <div class="p"><!----></div>
 </li>
 
-<li> Be a signing officer of the Society, including the Society's Bank
+<li> Make regular financial reports to the membership.
+<div class="p"><!----></div>
+</li>
 
+<li> Be a signing officer of the Society, including the Society's Bank
 Account.
 <div class="p"><!----></div>
 </li>
 
-<li> Make regular reports to the membership.
-<div class="p"><!----></div>
-</li>
-
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
 <div class="p"><!----></div>
 </li>
@@ -474,68 +402,49 @@ member who will fill this position.
 </li>
 
 <li> Secretary<br />
-
 The Secretary shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
-<li> Ensure that proper notice of general and special general meetings
-
-is given, as specified by this constitution.
+<li> Ensure that proper notice of General Meetings is given, as specified
+by this Constitution.
 <div class="p"><!----></div>
 </li>
 
-<li> Keep and reproduce minutes of Computing Science Student Society meetings
-
-and written records of all decisions made at properly constituted
-
-meeting of the society.
+<li> Keep and reproduce both minutes of CSSS meetings and written records
+of all decisions, made at properly constituted meetings of the Society.
 <div class="p"><!----></div>
 </li>
 
-<li> Maintain records of all correspondence between the society and other
-
+<li> Maintain records of all correspondence between the Society and other
 organisations.
 <div class="p"><!----></div>
 </li>
 
 <li> Make the minutes of all meetings available to the public, including
-
 the Student Union Organiser.
 <div class="p"><!----></div>
 </li>
 
 <li> Compile semester executive, representative, and committee membership
-
 lists.
 <div class="p"><!----></div>
 </li>
 
-<li> Compile a semester contact list of the executive members for the School
-
-of Computing Science and the Student Union Organiser.
-<div class="p"><!----></div>
-</li>
-
-<li> Write a continuity report at the end of their term for the next executive
-
-member who will fill this position.
-<div class="p"><!----></div>
-</li>
-
-<li> Post hard copies of the minutes of general meetings near the CSSS
-
+<li> Post hard copies of the minutes of General Meetings near the CSSS
 common room(s), and distribute electronic versions of the minutes
-
 to appropriate CSSS mailing lists.
 <div class="p"><!----></div>
 </li>
 
 <li> Maintain the records of the CSSS, including but not limited to the
+minutes archive.
+<div class="p"><!----></div>
+</li>
 
-minutes archive, financial records and exam archive.
+<li> Write a continuity report at the end of their term for the next executive
+member who will fill this position.
 <div class="p"><!----></div>
 </li>
 </ul>
@@ -543,27 +452,22 @@ minutes archive, financial records and exam archive.
 </li>
 
 <li> Executive at Large<br />
-
 The Executive at Large shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
 <li> Share responsibility for the day-to-day operations of the CSSS and
-
 its resources.
 <div class="p"><!----></div>
 </li>
 
 <li> Be available to the other executives to assist them with tasks relating
-
 to the operations and activities of the CSSS.
 <div class="p"><!----></div>
 </li>
 
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
 <div class="p"><!----></div>
 </li>
@@ -572,29 +476,23 @@ member who will fill this position.
 </li>
 
 <li> First Year Representative<br />
-
 The First Year Representatives shall:
-
 
 <div class="p"><!----></div>
 
 <ul>
 <li> Share responsibility for the day-to-day operations of the CSSS and
-
 its resources.
 <div class="p"><!----></div>
 </li>
 
-<li> Ensure that issues and views pertaining to the Members in their first
-
-year of Post-Secondary education are well represented within the Executive
-
-and the Society as a whole.
+<li> Ensure that issues and views pertaining to the members of the Society
+in their first year of Post-Secondary education are well represented
+within the Executive and the Society as a whole.
 <div class="p"><!----></div>
 </li>
 
 <li> Write a continuity report at the end of their term for the next executive
-
 member who will fill this position.
 <div class="p"><!----></div>
 </li>
@@ -603,75 +501,97 @@ member who will fill this position.
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.1.2">
-4.1.2</a>&nbsp;&nbsp;Forum Representative</h4>
-
+4.1.2</a>&nbsp;&nbsp;Elected Representatives</h4>
 
 <div class="p"><!----></div>
+The Elected Representatives shall consist of the Elections Officer,
+Forum Representative, and the Departmental Student Union Representatives.
+The Elected Representatives are non-executive positions that may be
+filled by any member of the Society and shall have a term of office
+consisting of one semester unless otherwise noted below.
+
+<ul>
+<li> Elections Officer<br />
+The Elections Officer shall:
+
+<div class="p"><!----></div>
+
+<ul>
+<li> Organise and facilitate the CSSS elections that they are elected to
+officiate, in accordance with this Constitution.
+<div class="p"><!----></div>
+</li>
+
+<li> Receive all nominations for members of the Society running for a position.
+<div class="p"><!----></div>
+</li>
+
+<li> Be free from conflicts of interest, by not running for any of the
+positions in the election(s) that they are officiating.
+<div class="p"><!----></div>
+</li>
+
+<li> Provide the results of the election(s) after voting has been concluded.
+<div class="p"><!----></div>
+</li>
+
+<li> Hold their position from the time they are elected until the conclusion
+of the elections that they have been elected to officiate.
+<div class="p"><!----></div>
+</li>
+</ul>
+<div class="p"><!----></div>
+</li>
+
+<li> Forum Representative<br />
 The Forum Representative shall:
 
+<div class="p"><!----></div>
 
 <ul>
 <li> Follow all Simon Fraser Student Society requirements for a Student
-
 Union Forum Representative.
 <div class="p"><!----></div>
 </li>
 
-<li> Act to further the best interests of the Computing Science Student
-
-Society as directed by the membership, within the Simon Fraser Student
-
-Society Forum.
+<li> Act to further the best interests of the CSSS as directed by the membership,
+within the Simon Fraser Student Society Forum.
 <div class="p"><!----></div>
 </li>
 
 <li> Report on the activities of the Simon Fraser Student Society Forum
-
-at general meetings.
+at General Meetings.
 <div class="p"><!----></div>
 </li>
 
 <li> Submit a written report for each meeting to the Secretary for public
-
 distribution and filing.
 <div class="p"><!----></div>
 </li>
+
+<li> Hold their position from the time they are elected until April 30th
+of the following year.
+<div class="p"><!----></div>
+</li>
 </ul>
+<div class="p"><!----></div>
+</li>
 
+<li> Departmental Student Representatives<br />
+The Departmental Student Representatives shall:
 
 <div class="p"><!----></div>
-      <h4><a name="tth_sEc4.1.3">
-4.1.3</a>&nbsp;&nbsp;Departmental Student Representatives</h4>
-
-
-<div class="p"><!----></div>
-The departmental Student Representatives are those students who are
-
-elected by the membership to sit on any departmental committees established
-
-ad hoc, temporarily, or permanently on which students are invited
-
-to participate in a representative/consultative role.
-
-
-<div class="p"><!----></div>
-The departmental student representatives shall:
-
 
 <ul>
 <li> Regularly attend meetings for the departmental committee to which
-
 they have been elected.
 <div class="p"><!----></div>
 </li>
 
 <li> Report to and consult with the membership on a regular basis, during
-
-general meetings, concerning the activities of and issues arising
-
+General Meetings, concerning the activities of and issues arising
 from such committees.
 <div class="p"><!----></div>
 </li>
@@ -681,33 +601,124 @@ from such committees.
 </li>
 
 <li> Inform the President of any meetings to which student representatives
-
 are regularly or specially invited to attend, which the elected representative
-
 is unable to attend, to ensure that the membership may be represented
-
-by an alternate member of the society.
+by an alternate member of the Society.
 <div class="p"><!----></div>
 </li>
 
 <li> Submit a written report for each meeting to the Secretary for public
-
 distribution and filing.
 <div class="p"><!----></div>
 </li>
 </ul>
+<div class="p"><!----></div>
+</li>
+</ul>
 
+<div class="p"><!----></div>
+      <h4><a name="tth_sEc4.1.3">
+4.1.3</a>&nbsp;&nbsp;Appointed Representatives</h4>
+
+<div class="p"><!----></div>
+The Appointed Representatives shall consist of the System Administrator,
+Webmaster, and Frosh Week Chair. The Appointed Representatives are
+non-executive positions that may be filled by any member of the Society
+and shall have a term of office consisting of one semester unless
+otherwise noted below.
+
+<ul>
+<li> System Administrator<br />
+The System Administrator shall:
+
+<div class="p"><!----></div>
+
+<ul>
+<li> Maintain all digital resources including but not limited to the CSSS
+repository, servers, common room terminal(s), and associated hardware.
+<div class="p"><!----></div>
+</li>
+
+<li> At the end of their term, submit to the Director of Resources a detailed
+report of actions taken, for filing in the Director of Resources continuity
+report.
+<div class="p"><!----></div>
+</li>
+</ul>
+
+<div class="p"><!----></div>
+If this position remains unfilled, the associated duties shall default
+to the Director of Resources.
+<div class="p"><!----></div>
+</li>
+
+<li> Webmaster<br />
+The Webmaster shall:
+
+<div class="p"><!----></div>
+
+<ul>
+<li> Maintain current websites affiliated with the CSSS and its corresponding
+committees.
+<div class="p"><!----></div>
+</li>
+
+<li> Create and design new websites at the request of the Executive or
+an approved committee.
+<div class="p"><!----></div>
+</li>
+
+<li> At the end of their term, submit to the Director of Resources a detailed
+report of actions taken, for filing in the Director of Resources continuity
+report.
+<div class="p"><!----></div>
+</li>
+</ul>
+
+<div class="p"><!----></div>
+If this position remains unfilled, the associated duties shall default
+to the System Administrator.
+<div class="p"><!----></div>
+</li>
+
+<li> Frosh Week Chair<br />
+The Frosh Week Chair shall:
+
+<div class="p"><!----></div>
+
+<ul>
+<li> Be responsible for overseeing the organisation and planning of Frosh
+Week.
+<div class="p"><!----></div>
+</li>
+
+<li> Chair a Frosh Week Committee and hold regular meetings to discuss
+and plan Frosh Week.
+<div class="p"><!----></div>
+</li>
+
+<li> Hold their position from the time of their appointment until the conclusion
+of all Frosh Week events that were planned.
+<div class="p"><!----></div>
+</li>
+</ul>
+
+<div class="p"><!----></div>
+If extraneous or financial circumstances prevent Frosh Week from taking
+place, the events may be canceled at a General Meeting and if canceled,
+the Frosh Week Chair shall be released from all duties and responsibilities
+pertaining to the position of Frosh Week Chair.
+<div class="p"><!----></div>
+</li>
+</ul>
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.1.4">
 4.1.4</a>&nbsp;&nbsp;Signing Officers</h4>
 
-
 <div class="p"><!----></div>
 The signing officers of the CSSS, including the CSSS bank account,
-
-shall be the following executives at any campus:
-
+shall be the following executives:
 
 <ul>
 <li> The President
@@ -739,234 +750,172 @@ shall be the following executives at any campus:
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc4.2">
 4.2</a>&nbsp;&nbsp;Departmental Committees</h3>
 
-
 <div class="p"><!----></div>
-The CSSS shall elect departmental student representatives, as follows,
-
+The CSSS shall elect Departmental Student Representatives, as follows,
 to committees within the School of Computing Science:
-
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.2.1">
 4.2.1</a>&nbsp;&nbsp;Undergraduate Programmes Committee/Undergraduate Curriculum Committee</h4>
 
-
 <div class="p"><!----></div>
-<i>The President; Vice-President; and Treasurer of the Society
-
-shall sit on the Undergraduate Programmes Committee/Undergraduate
-
-Curriculum Committee. One alternative member shall also be elected
-
-to sit on the Committee in the case that one of the aforementioned
-
-Executives is absent.</i>
-
+The President, Vice-President, and Treasurer of the Society shall
+sit on the Undergraduate Programmes Committee/Undergraduate Curriculum
+Committee. One alternative member shall also be elected to sit on
+the Committee in the case that one of the aforementioned Executives
+is absent.
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.2.2">
-4.2.2</a>&nbsp;&nbsp;Deans' Student Advisory Committee</h4>
-
+4.2.2</a>&nbsp;&nbsp;Dean's Student Advisory Committee</h4>
 
 <div class="p"><!----></div>
-The President; Vice-President; and Treasurer of the Society shall
-
-be members of the Deans' Student Advisory Committee. One alternative
-
+The President, Vice-President, and Treasurer of the Society shall
+be members of the Dean's Student Advisory Committee. One alternative
 member shall also be elected to sit on the Committee in the case that
-
 one of the aforementioned Executives is absent.
-
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.2.3">
 4.2.3</a>&nbsp;&nbsp;Other Committees</h4>
 
-
 <div class="p"><!----></div>
 In the case that a Committee of the School of Computing Science or
-
 of the Faculty of Applied Sciences creates a seat for a member of
-
-the Society, the President; Vice-President; or Treasurer shall sit
-
+the Society, the President, Vice-President, or Treasurer shall sit
 on the Committee until a time at which the Committee is introduced
-
-in the constitution. If none of the aforementioned Executives are
-
-able or willing to sit on the Committee, the Society shall elect one
-
-member and an alternate to sit on the Committee.
-
+in this Constitution. One alternative member shall also be elected
+to sit on the Committee in the case that all of the aforementioned
+Executives are absent.
 
 <div class="p"><!----></div>
      <h3><a name="tth_sEc4.3">
 4.3</a>&nbsp;&nbsp;CSSS Committees</h3>
 
-
 <div class="p"><!----></div>
-In addition to the permanent committees defined below, the president
-
+In addition to the permanent committees defined below, the President
 may, at any time, stake ad hoc committees to deal with special or
-
 pressing business of the CSSS. Membership on these committees shall
-
-be appointed by the members of the executive.
-
+be appointed by the members of the Executive.
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.3.1">
 4.3.1</a>&nbsp;&nbsp;Activities Committee</h4>
 
-
 <div class="p"><!----></div>
-The Director of Activities shall chair an Activities committee to
-
-organize and facilitate CSSS events.
-
+The Director of Activities shall chair an Activities Committee to
+organise and facilitate CSSS events.
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc4.3.2">
 4.3.2</a>&nbsp;&nbsp;Policy Committee</h4>
 
-
 <div class="p"><!----></div>
 The Vice-President shall chair the Policy Committee of the Society.
-
 In the case that the Vice-President is contacted regarding a proposal
-
-to amend the constitution, a meeting of the Policy Committee shall
-
+to amend the Constitution, a meeting of the Policy Committee shall
 be convened.
 
+<div class="p"><!----></div>
+      <h4><a name="tth_sEc4.3.3">
+4.3.3</a>&nbsp;&nbsp;Frosh Week Committee</h4>
+
+<div class="p"><!----></div>
+The Frosh Week Chair shall chair a Frosh Week Committee to organise
+and plan Frosh Week.
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc5">
 5</a>&nbsp;&nbsp;Meetings</h2>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc5.1">
 5.1</a>&nbsp;&nbsp;Frequency</h3>
 
-
 <div class="p"><!----></div>
-There shall be at least four general meetings in any given semester,
-
+There shall be at least four General Meetings in any given semester,
 the first of which shall be within the first three weeks of classes,
-
 the final one shall be within the last two weeks of classes. 
-
 
 <div class="p"><!----></div>
      <h3><a name="tth_sEc5.2">
 5.2</a>&nbsp;&nbsp;Record Keeping</h3>
 
-
 <div class="p"><!----></div>
 All meetings of the CSSS, including but not limited to General Meetings,
-
-Special General Meetings, Emergency General Meetings, Executive Meetings,
-
-Activities Committee Meetings, and Event Planning Meetings shall have
-
-minutes produced and supplied to the Secretary for public distribution
-
-and filing.
-
+Emergency General Meetings, Executive Meetings, Activities Committee
+Meetings, and Event Planning Meetings shall have minutes produced
+and supplied to the Secretary for filing and distribution to the associated
+mailing lists.
 
 <div class="p"><!----></div>
      <h3><a name="tth_sEc5.3">
 5.3</a>&nbsp;&nbsp;Convening Procedures for General Meetings</h3>
 
-
 <ul>
 <li> General Meetings shall be called by the President, or any other executive
-
-should the president be unable or unwilling.
+should the President be unable or unwilling.
 <div class="p"><!----></div>
 </li>
 
-<li> If, at any time, no executive is able or willing to call a general
-
-meeting at the request of the membership, any member may do so providing
-
+<li> If, at any time, no executive is able or willing to call a General
+Meeting at the request of the membership, any member may do so, provided
 proper notice is given.
 <div class="p"><!----></div>
 </li>
-</ul>
 
+<li> At any time an Emergency General Meeting may be called without proper
+notice, however no motions or voting may take place at an Emergency
+General Meeting.
+<div class="p"><!----></div>
+</li>
+
+<li> The location of a General Meeting may be changed provided it remains
+on the same campus and notice of the change is given at least twenty-four
+hours before the scheduled meeting time. In order to change the location
+of a General Meeting a 2/3 majority vote of the Executive is needed.
+<div class="p"><!----></div>
+</li>
+</ul>
 
 <div class="p"><!----></div>
       <h4><a name="tth_sEc5.3.1">
 5.3.1</a>&nbsp;&nbsp;Notice</h4>
 
-
 <div class="p"><!----></div>
-General meetings shall be advertised at least one week in advance.
-
-Such advertisement must consist at the least of the following:
-
+General Meetings shall be announced at least one week in advance.
+Such announcements must include the following:
 
 <ul>
-<li> Announcements placed in or on at least one of the following:
-
-
-<div class="p"><!----></div>
-
-<ul>
-<li> The Peak
-<div class="p"><!----></div>
-</li>
-
-<li> The Eye in the Sky System<a href="#tthFtNtAAB" name="tthFrefAAB"><sup>1</sup></a>
-<div class="p"><!----></div>
-</li>
-
-<li> The CSSS website
-<div class="p"><!----></div>
-</li>
-</ul>
+<li> Placement on the CSSS website when the website is available, and if
+applicable, distribution via appropriate social media.
 <div class="p"><!----></div>
 </li>
 
 <li> A minimum of ten posters distributed amongst all the CSSS common room(s),
-
-the applied sciences building and all undergraduate computing science
-
-instructional lab facilities. No fewer than three posters must be
-
-posted at each campus of Simon Fraser University where there exists
-
-computing facilities for the express usage of undergraduate Computing
-
-Science students.
+the Applied Sciences Building and all undergraduate computing science
+instructional lab facilities located at campuses where the CSSS holds
+an active executive body.
 <div class="p"><!----></div>
 </li>
 
 <li> An electronic mail sent to the mailing lists <em>csss-announce@sfu.ca</em>
-
 and <em>cmpt-students@sfu.ca</em>, or should this not be possible, the
-
 mailing list with the greatest number of Computing Science students.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
       <h4><a name="tth_sEc5.3.2">
 5.3.2</a>&nbsp;&nbsp;Format of Notice</h4>
 
-
 <div class="p"><!----></div>
 Any notice of meeting must contain the following information:
-
 
 <ul>
 <li> The time and place of the meeting.
@@ -978,57 +927,45 @@ Any notice of meeting must contain the following information:
 </li>
 
 <li> A listing of any constitutional amendments to be adopted or elections
-
 to be conducted.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc5.4">
 5.4</a>&nbsp;&nbsp;Quorum</h3>
 
-
 <ul>
 <li> During the Fall and Spring semesters, quorum shall be set at ten members
-
 of the CSSS.
 <div class="p"><!----></div>
 </li>
 
 <li> During Summer semesters, quorum shall be set at seven members of the
-
 CSSS.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc5.5">
-5.5</a>&nbsp;&nbsp;Voting</h3>
-
+5.5</a>&nbsp;&nbsp;Voting and Motions</h3>
 
 <ul>
 <li> Each member of the CSSS is entitled to one vote per motion at any
-
 meeting at which they are in attendance.
 <div class="p"><!----></div>
 </li>
 
 <li> The acceptance of motions shall be determined by a simple majority
-
 of those members present and voting at any meeting, notwithstanding
-
-those exceptions explicitly defined within this constitution.
+those exceptions explicitly defined within this Constitution.
 <div class="p"><!----></div>
 </li>
 
 <li> By default, voting shall be by show of hands. However, any member
-
 in attendance may object to a show of hands, and voting will proceed
-
 by secret ballot.
 <div class="p"><!----></div>
 </li>
@@ -1038,116 +975,131 @@ by secret ballot.
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
  <h2><a name="tth_sEc6">
 6</a>&nbsp;&nbsp;Elections</h2>
-
 
 <div class="p"><!----></div>
      <h3><a name="tth_sEc6.1">
 6.1</a>&nbsp;&nbsp;Eligibility</h3>
 
-
 <ul>
-<li> The CSSS President and Treasurer must be registered with the university
-
-as a major, minor, or honours in a programme of study offered by the
-
-School of Computing Science.
+<li> The CSSS President, Vice-President, Treasurer, and SFSS Forum Representative
+must be registered with the university as a major, minor, or honours
+in a programme of study offered by the School of Computing Science.
 <div class="p"><!----></div>
 </li>
 
-<li> The First Year Representative must be a registered major, minor, or
-
-honours in a programme of study offered by the School of Computing
-
-Science or must intend to enter such a programme above and beyond
-
-being within their first year of study at a Post-Secondary Institution.
+<li> Both of the First Year Representatives must be a registered major,
+minor, or honours in a programme of study offered by the School of
+Computing Science, or must intend to enter such a programme above
+and beyond being within their first year of study at a Post-Secondary
+Institution.
 <div class="p"><!----></div>
 </li>
 
 <li> Any member of the Society, including but not limited to the Executives
-
 of the Society, shall be eligible for election to any non-executive
-
 representative position of the Society.
 <div class="p"><!----></div>
 </li>
 
 <li> Any member of the Society shall be eligible for election to any executive
-
 office or committee of the Society, with the exception of the President,
-
-Treasurer, SFSS Forum Representative and First Year Representative
-
-positions.
+Vice-President, Treasurer, SFSS Forum Representative, and First Year
+Representative positions.
 <div class="p"><!----></div>
 </li>
 
 <li> In the event that any executive position cannot be filled by a member
-
 fulfilling these criteria, then any non-executive member of the Society
-
 shall be eligible for election to any executive office of the Society.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc6.2">
 6.2</a>&nbsp;&nbsp;Yearly positions</h3>
 
-
 <ul>
-<li> The terms of office for the positions of offices of President; Vice-President;
-
+<li> The terms of office for the positions of President, Vice-President,
 and Treasurer shall be one year beginning May 1st through April 30th
-
 of the following year.
 <div class="p"><!----></div>
 </li>
 
-<li> Elections shall take place during the spring semester.
+<li> Elections shall take place during the Spring semester.
 <div class="p"><!----></div>
 </li>
 
 <li> Nominations shall remain open until 24 hours before the beginning
-
 of the election period.
 <div class="p"><!----></div>
 </li>
 
-<li> Nominations shall be accepted in writing by the President.
-<div class="p"><!----></div>
-</li>
-
-<li> Voting shall be by secret ballot with the person receiving the largest
-
-number of votes being elected.
+<li> Nominations shall be accepted in writing by the Elections Officer.
 <div class="p"><!----></div>
 </li>
 
 <li> Should a person holding a yearly position be unable to perform their
-
 duties for a period exceeding a month, they may request leave and
-
 an interim replacement may be elected, in accordance with the procedures
-
 that apply if the position were to become unfilled, to serve for the
-
 duration of the leave.
 <div class="p"><!----></div>
 </li>
 
 <li> In the event that any of the yearly positions remain or become unfilled,
+an election for this position shall take place within the next two
+scheduled General Meetings, and notice of the election will be included
+with notice of the meeting.
+<div class="p"><!----></div>
+</li>
 
-an election for this position shall take place at the next scheduled
+<li> Elections shall be conducted by the Elections Officer using the Simon
+Fraser University Survey System. Voting by secret ballot is permitted
+in the event the Simon Fraser University Survey System is unavailable.
+<div class="p"><!----></div>
+</li>
 
-general meeting and notice of the election will be included with notice
+<li> No proxy voting shall be allowed.
+<div class="p"><!----></div>
+</li>
+</ul>
 
+<div class="p"><!----></div>
+     <h3><a name="tth_sEc6.3">
+6.3</a>&nbsp;&nbsp;Semesterly positions</h3>
+
+<ul>
+<li> The terms of office for the positions of Director of Resources, Director
+of Activities, Executive at Large, and Secretary shall be one semester
+beginning at the time of their election until the first quorate General
+Meeting of the subsequent semester.
+<div class="p"><!----></div>
+</li>
+
+<li> Elections for positions pertaining to a specific campus shall take
+place at the first quorate General Meeting of the semester at that
+campus. Other elections shall take place at the first quorate General
+Meeting of the semester.
+<div class="p"><!----></div>
+</li>
+
+<li> Nominations shall be accepted in writing and from the floor at the
+General Meeting.
+<div class="p"><!----></div>
+</li>
+
+<li> Voting shall be conducted by secret ballot with the person receiving
+the largest number of votes being elected.
+<div class="p"><!----></div>
+</li>
+
+<li> In the event that any semesterly position becomes unfilled, an election
+for this position shall take place within the next two scheduled General
+Meetings, and notice of the election will be included with notice
 of the meeting.
 <div class="p"><!----></div>
 </li>
@@ -1155,127 +1107,39 @@ of the meeting.
 <li> No proxy voting shall be allowed.
 <div class="p"><!----></div>
 </li>
-
-<li> Electronic voting is permitted using the SFU survey system.
-<div class="p"><!----></div>
-</li>
 </ul>
-
-
-<div class="p"><!----></div>
-     <h3><a name="tth_sEc6.3">
-6.3</a>&nbsp;&nbsp;Semesterly positions</h3>
-
-
-<ul>
-<li> The terms of office for the positions of Director of Resources, Director
-
-of Activities, Executive at Large, Secretary and any departmental
-
-student representatives shall be from the first time of their election
-
-until the time at which the next election for the position is scheduled
-
-to occur.
-<div class="p"><!----></div>
-</li>
-
-<li> Elections for positions pertaining to a specific campus shall take
-
-place at the first quorate general meeting of the semester at that
-
-campus. Other elections shall take place at the first quorate general
-
-meeting of the semester.
-<div class="p"><!----></div>
-</li>
-
-<li> Nominations shall be accepted in writing and from the floor at the
-
-general meeting.
-<div class="p"><!----></div>
-</li>
-
-<li> Voting shall be by secret ballot with the person receiving the largest
-
-number of votes being elected.
-<div class="p"><!----></div>
-</li>
-
-<li> In the event that any semesterly position becomes unfilled, an election
-
-for this position shall take place at the next scheduled general meeting
-
-and notice of the election will be included with notice of the meeting.
-<div class="p"><!----></div>
-</li>
-
-<li> No proxy voting shall be allowed.
-<div class="p"><!----></div>
-</li>
-</ul>
-
 
 <div class="p"><!----></div>
      <h3><a name="tth_sEc6.4">
 6.4</a>&nbsp;&nbsp;First Year Representatives</h3>
 
-
 <ul>
-<li> The term of office for the positions of First Year Representatives
-
-shall be from the first quorate special meeting of members within
-
-their first year of study of the Fall semester until the first quorate
-
-General meeting of the Summer Semester.
+<li> The terms of office for the positions of First Year Representatives
+shall last two semesters, from the first quorate General Meeting of
+the Fall semester until the first quorate General Meeting of the Summer
+semester.
 <div class="p"><!----></div>
 </li>
 
-<li> Elections shall take place at either:
-
-
-<div class="p"><!----></div>
-
-<ul>
-<li> a special meeting convened for the purpose upon the closing of any
-
-Frosh welcoming events
-<div class="p"><!----></div>
-</li>
-
-<li> the first quorate general meeting of the Fall Semester
-<div class="p"><!----></div>
-</li>
-</ul>
+<li> Elections shall take place at the first quorate General Meeting of
+the Fall semester.
 <div class="p"><!----></div>
 </li>
 
 <li> Nominations shall be accepted in writing and from the floor at the
-
-meeting
+General Meeting.
 <div class="p"><!----></div>
 </li>
 
-<li> Voting shall be by secret ballot with the person receiving the largest
-
-number of votes being elected.
+<li> Voting shall be conducted by secret ballot with the person receiving
+the largest number of votes being elected.
 <div class="p"><!----></div>
 </li>
 
-<li> Voting shall be restricted to members within their first year of study
-
-at Simon Fraser University.
-<div class="p"><!----></div>
-</li>
-
-<li> In the event that this postion becomes unfilled during either the
-
+<li> In the event that this position becomes unfilled during either the
 Fall or Spring semesters, an election for this position shall take
-
-place at the next scheduled general meeting and notice of the election
-
-will be included with the notice of the meeting.
+place within the next two scheduled General Meetings, and notice of
+the election will be included with notice of the meeting.
 <div class="p"><!----></div>
 </li>
 
@@ -1284,375 +1148,208 @@ will be included with the notice of the meeting.
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
      <h3><a name="tth_sEc6.5">
-6.5</a>&nbsp;&nbsp;Forum Representative</h3>
-
+6.5</a>&nbsp;&nbsp;Elected Representatives</h3>
 
 <ul>
-<li> The Forum Representative shall be elected in accordance with the constitution
+<li> Elected Representatives shall be elected as needed at a quorate General
+Meeting and shall have a term of office lasting one semester unless
+otherwise noted below.
+<div class="p"><!----></div>
+</li>
 
-and by-laws of the Simon Fraser Student Society.
+<li> The Elections Officer shall have a term of office lasting from the
+time they are elected until the conclusion of the election they are
+to officiate.
+<div class="p"><!----></div>
+</li>
+
+<li> The Forum Representative shall have a term of office lasting from
+the time they are elected until April 30th of the following year.
+<div class="p"><!----></div>
+</li>
+
+<li> Nominations shall be accepted in writing and from the floor at the
+General Meeting.
+<div class="p"><!----></div>
+</li>
+
+<li> Voting shall be conducted by secret ballot with the person receiving
+the largest number of votes being elected.
+<div class="p"><!----></div>
+</li>
+
+<li> No proxy voting shall be allowed.
 <div class="p"><!----></div>
 </li>
 </ul>
-
 
 <div class="p"><!----></div>
      <h3><a name="tth_sEc6.6">
-6.6</a>&nbsp;&nbsp;Recall</h3>
-
+6.6</a>&nbsp;&nbsp;Appointed Representatives</h3>
 
 <ul>
-<li> Officers of the society may be recalled by a two-thirds (2/3) majority
-
-of the members present and voting at a general meeting.
-<div class="p"><!----></div>
-</li>
-
-<li> Notice of the proposed recall must be given in the notice of the general
-
-meeting at which the proposed recalls are to be considered.
+<li> Appointed Representatives shall be appointed by a 2/3 majority vote
+of the Executive at any Executive or General Meeting in accordance
+with this Constitution and the By-Laws of the Simon Fraser Student
+Society. In cases where the Constitution and the By-Laws of the Simon
+Fraser Student Society require appointment by election, voting shall
+be conducted the same way as an Elected Representative position would.
 <div class="p"><!----></div>
 </li>
 </ul>
 
+<div class="p"><!----></div>
+     <h3><a name="tth_sEc6.7">
+6.7</a>&nbsp;&nbsp;Recall</h3>
+
+<ul>
+<li> Officers of the Society may be recalled by a 2/3 majority of the members
+present and voting at a General Meeting.
+<div class="p"><!----></div>
+</li>
+
+<li> Notice of the proposed recall must be given in the notice of the General
+Meeting at which the proposed recalls are to be considered.
+<div class="p"><!----></div>
+</li>
+
+<li> Voting shall be conducted by secret ballot.
+<div class="p"><!----></div>
+</li>
+
+<li> No proxy voting shall be allowed.
+<div class="p"><!----></div>
+</li>
+</ul>
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc7">
 7</a>&nbsp;&nbsp;Standing Orders</h2>
 
-
 <ul>
 <li> Standing orders designed to regularise the business of the CSSS, or
-
 amendments to the same, shall require approval of the membership by
-
-a 2/3 majority vote of those present and voting at a quorate general
-
-meeting called for the purpose.
+a 2/3 majority vote of those present and voting at a quorate General
+Meeting called for the purpose of approving or amending said standing
+orders.
 <div class="p"><!----></div>
 </li>
 
 <li> Proposals for standing orders or amendments must be made readily available
-
 prior to the meeting for a period equivalent to regular meeting notice
-
 requirements.
 <div class="p"><!----></div>
 </li>
 
-<li> Standing orders shall be appended to the constitution.
+<li> Standing orders shall be added to the CSSS Standing Orders Document.
 <div class="p"><!----></div>
 </li>
 
 <li> Standing orders shall be considered equal in power to the Constitution,
-
 except when a standing order violates the rules and regulations set
-
 forth in either this Constitution, the SFSS Constitution, or the SFSS
-
-Policy Manual, it shall be struck down and considered invalid.
+Policy Manual. If such a violation occurs, the standing order shall
+be struck down and considered invalid.
 <div class="p"><!----></div>
 </li>
 </ul>
-
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc8">
 8</a>&nbsp;&nbsp;Policies</h2>
 
-
 <ul>
 <li> Policies designed to outline positions of the CSSS on certain issues,
-
 or amendments to the same, shall require approval of the membership
-
-by a 2/3 majority vote of those presnt and voting at a quorate general
-
-meeting called for the purpose.
+by a 2/3 majority vote of those present and voting at a quorate General
+Meeting called for the purpose of approving or amending said policies.
 <div class="p"><!----></div>
 </li>
 
 <li> Proposals for policies or amendments must be made readily available
-
-prior to the meeting for a period of 4 weeks.
+prior to the meeting for a period of four weeks.
 <div class="p"><!----></div>
 </li>
 
 <li> All policies shall be referenced by title and date of latest revision
-
-in the constitution.
+in the CSSS Policy Document.
 <div class="p"><!----></div>
 </li>
 
 <li> Policies shall be considered equal in power to the Constitution, except
-
 when a policy violates the rules and regulations set forth in either
-
-this Constitution, the SFSS Constitution, or the SFSS Policy Manual,
-
-it shall be struck down and considered invalid.
+this Constitution, the SFSS Constitution, or the SFSS Policy Manual.
+If such a violation occurs, the policy shall be struck down and considered
+invalid.
 <div class="p"><!----></div>
 </li>
 </ul>
-
 
 <div class="p"><!----></div>
  <h2><a name="tth_sEc9">
 9</a>&nbsp;&nbsp;Amendments</h2>
 
-
 <ul>
-<li> This constitution may be amended only by a motion of the CSSS requiring
-
-at least a 2/3 majority of those present and voting at any meeting
-
-considering such amendments.
+<li> This Constitution may be amended only by a motion of the CSSS requiring
+at least a 2/3 majority of those present and voting at any General
+Meeting considering such amendments.
 <div class="p"><!----></div>
 </li>
 
-<li> Motions to amend this constitution must be announced at a general
-
-meeting at least six weeks prior to the general meeting at which they
-
+<li> Motions to amend this Constitution must be announced at a General
+Meeting at least six weeks prior to the General Meeting at which they
 are to be voted upon.
 <div class="p"><!----></div>
 </li>
 
 <li> The text of the proposed amendment(s) shall be sent to CSSS e-mail
-
 lists, and copies of the amendment(s) shall be available in the common
-
 room(s) up to the time of voting.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-
 <div class="p"><!----></div>
  <h2><a name="tth_sEc10">
 10</a>&nbsp;&nbsp;Dissolution</h2>
 
-
 <ul>
+<li> For the purpose of this Article, the Society shall have become inactive
+if, for two consecutive semesters, the membership does not hold the
+minimum number of quorate General Meetings.
+<div class="p"><!----></div>
+</li>
+
 <li> In the event that this Society becomes inactive, all assets of the
-
 Society become the property of the Simon Fraser Student Society to
-
 be held in trust for a minimum of two years.
 <div class="p"><!----></div>
 </li>
 
 <li> If, during this period, a new Computing Science Student Society or
-
 Student Union is formed to represent the interests of students in
-
 the School of Computing Science or if this Society becomes active,
-
 the trust shall be dissolved and all assets shall become the property
-
 of the new Computing Science Student Society/Union.
 <div class="p"><!----></div>
 </li>
 
 <li> After two years, if the trust has not been dissolved, the Simon Fraser
-
-Student Society may dispose of the assets as it sees fit
-<div class="p"><!----></div>
-</li>
-
-<li> For the purpose of this Article, the Society shall have become inactive
-
-if, for two consecutive semesters, the membership does not hold the
-
-minimum number of quorate general meetings.
+Student Society may dispose of the assets as it sees fit.
 <div class="p"><!----></div>
 </li>
 </ul>
 
-This constitution owes much to the efforts of Geoff Denning, Jason
-
-Reader, Ian Ho, Noah Adams, Andrew Lumb, Travis Brown and the authors
-
-of the Engineering Student Society Constitution.
-
-
-<div class="p"><!----></div>
- <h2><a name="tth_sEcA">
-A</a>&nbsp;&nbsp;Standing Orders of the Computing Science Student Society</h2>
-
-
-<div class="p"><!----></div>
-April, 1998. July, 1998. March, 2000. April, 2007.
-
-
-<ol type="1">
-<li> Without the approval of the membership, the executive may decide to
-
-expend funding on items which:
-
-
 <div class="p"><!----></div>
 
-<ol type="a">
-<li> cost less than fifty (50) dollars and
-<div class="p"><!----></div>
-</li>
-
-<li> are part of the day to day running of the society
-<div class="p"><!----></div>
-</li>
-</ol>
-<div class="p"><!----></div>
-</li>
-
-<li> All votes which concern the holding of positions within the society
-
-shall be by secret ballot.
-<div class="p"><!----></div>
-</li>
-
-<li> The <em>csss-exec</em> mailing list shall exist for the discussion of
-
-matters pertaining to the running of the Society.
-
-
-<div class="p"><!----></div>
-
-<ol type="a">
-<li> The membership of the <em>csss-exec@sfu.ca</em> list shall be maintained
-
-by the Secretary, and it shall include, but not be limited to:
-
-
-<div class="p"><!----></div>
-
-<ol type="i">
-<li> all members of the executive.
-<div class="p"><!----></div>
-</li>
-
-<li> any member of the Society who is sponsored by a member of the executive.
-<div class="p"><!----></div>
-</li>
-</ol>
-<div class="p"><!----></div>
-</li>
-
-<li> Any individual may be removed from the list by a majority vote of
-
-the executive.
-<div class="p"><!----></div>
-</li>
-</ol>
-<div class="p"><!----></div>
-</li>
-
-<li> Standing Orders
-
-
-<div class="p"><!----></div>
-
-<ol type="a">
-<li> An executive shall not sign a cheque made out to him/her self.
-<div class="p"><!----></div>
-</li>
-
-<li> A signing officer will not sign a cheque without first filling out
-
-the proper stub or allocation field.
-<div class="p"><!----></div>
-</li>
-</ol>
-<div class="p"><!----></div>
-</li>
-
-<li> Awards
-
-
-<div class="p"><!----></div>
-
-<ol type="a">
-<li> Following the end of classes in Spring semester, the CSSS shall award
-
-the "CSSS Community Involvement Award" to a member of the faculty
-
-or staff of the School of Computing Science who has demonstrated great
-
-involvement in the Computing Science student community. Nominations
-
-for the award shall be accepted in writing until the last day of classes
-
-of the Spring semester and the executive shall grant the award at
-
-their discretion before the start of classes of the Summer semester.
-<div class="p"><!----></div>
-</li>
-
-<li> Following the end of classes in Spring semester, the CSSS shall award
-
-the "CSSS volunteer of the year award" to a non-executive member
-
-of the society who has demonstrated great service to the society in
-
-the past year. Nominations for the award shall be accepted in writing
-
-until the last day of classes of the Spring semester and the executive
-
-shall grant the award at their discretion before the start of classes
-
-of the Summer semester.
-<div class="p"><!----></div>
-</li>
-</ol>
-<div class="p"><!----></div>
-</li>
-
-<li> Organisational Documentation
-
-
-<div class="p"><!----></div>
-For the purposes of continuity, the executive shall maintain a repository
-
-of organisational documents including, but not limited to: 
-
-
-<ol type="a">
-<li> Budgets
-<div class="p"><!----></div>
-</li>
-
-<li> Venue planning
-<div class="p"><!----></div>
-</li>
-
-<li> Promotional materials that were produced digitally
-<div class="p"><!----></div>
-</li>
-
-<li> Other planning documentation
-<div class="p"><!----></div>
-</li>
-</ol>
-<div class="p"><!----></div>
-</li>
-</ol>
-
-
-<div class="p"><!----></div>
-<hr /><h3>Footnotes:</h3>
-
-<div class="p"><!----></div>
-<a name="tthFtNtAAB"></a><a href="#tthFrefAAB"><sup>1</sup></a>These are the video screens located around campus operated by Instructional
-
-Media Centre. 
 <br /><br /><hr /><small>File translated from
 T<sub><font size="-1">E</font></sub>X
 by <a href="http://hutchinson.belmont.ma.us/tth/">
 T<sub><font size="-1">T</font></sub>H</a>,
-version 3.85.<br />On 30 Mar 2012, 15:58.</small>
+version 4.01.<br />On 20 Jan 2013, 00:47.</small>
+</html>
 </div>
 	  
 <?php
