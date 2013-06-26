@@ -1,0 +1,3 @@
+[submodule "minutes"]
+	path = minutes
+	url = https://github.com/CSSS/minutes.git
