@@ -1,9 +1,6 @@
-<?php
-// Ensure we've been called internally
-defined('CSSS') or die('This is an included page, and cannot be called by it self.');?>
- 
-    <title>
-      <?php if(defined('TITLE')){ echo constant('TITLE') . " - "; } ?>Computing Science Student Society
+    <meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+	<title>
+      <?php if(defined('TITLE')){ echo constant('TITLE') . " - "; }else{ define('TITLE', ''); } ?>Computing Science Student Society
     </title>   
      
 <script type="text/javascript">
@@ -33,8 +30,19 @@ el.style.display = '';
   <body>
     <div id="wrapper">
       <div id="header">
-        <img src="images/header.jpg" alt="CSSS Logo" />
-      </div>
+        <div id="headerLogo">
+		  <div id="hoverWrapper">
+			 <?php if(isset($_COOKIE['session']) && (constant('TITLE') != 'Logout'))
+				{
+					echo "<div id='loginLink'><a href='account.php'>Account</a> | <a href='logout.php'>Logout</a></div>";
+				}else
+				{
+					echo "<div id='loginLink'><a href='login.php'>Login</a></div>";
+				}
+			 ?>
+		  </div>
+        </div>
+	  </div>
       <div id="nav">
         <ul>
           <li>

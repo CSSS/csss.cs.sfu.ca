@@ -1,0 +1,255 @@
+#calendar{
+	padding: 5px 20px 5px;
+	margin-bottom: 5px;
+	background-color: #FFF;
+}
+
+#calendar-header{
+	width: 754px;
+	height: 45px;	
+	padding:0px;
+	position:relative;
+}
+
+#calendar-header-left{
+	width: 97px;
+	height: auto;
+	margin: 2px;
+	padding: 2px;
+	float: left;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	text-align: left;
+}
+
+#calendar-header-mid{
+	width: 530px;
+	height: 35px;
+	margin: 2px;
+	padding: 2px;
+	float: left;
+	position:absolute;
+	bottom:0px;
+	left:107px;
+}
+
+#calendar-header-right{
+	width: 97px;
+	height: auto;
+	margin: 2px;
+	padding: 2px;
+	float: left;
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	text-align: right;
+}
+
+
+#calendar-bot{
+	margin:2px 2px 10px 2px;
+	width: 730px;
+	height: 5px;
+	padding: 2px 10px 2px 10px;
+	float: left;
+}
+
+#calendar h1{	
+	margin:2px;
+	text-align:center;
+}
+
+#dayInfoBack{
+	position:absolute;
+	top:0px;
+	left:0px;
+	margin: 0px;
+	display:none;
+	z-index: 9001;
+	background: rgba(0,0,0,0.5);
+	cursor:pointer;
+	padding: 0px;
+}
+
+#dayInfo{
+	position:absolute;
+	top:100px;
+	left: 50%;
+	margin: 0px;
+	margin-left: -460px;
+	z-index: 9003;
+	width: 900px;
+	min-height: 10px;
+	background: #FFF;
+	padding: 10px;
+	display:none;
+	border-radius: 5px;
+}
+
+.dayLoading{
+	width: 16px;
+	height: 11px;
+	background: #FFF;
+	padding: 0x;
+	margin-left: 432px;
+	float:left;
+}
+
+.dayClose{
+	float:right;
+	width: 16px;
+	height: 16px;
+	padding: 1px;
+	margin: 0px;
+	background: #FFF;
+	display: inline;
+	cursor: pointer;
+}
+
+.dayCreate{
+float: right;
+width: 16px;
+height: 16px;
+padding: 1px;
+margin-right: 5px;
+background: #FFF;
+display: inline;
+cursor: pointer;
+}
+
+.day, .cell, .cellg, .cellh{
+	width: 98px;
+	height: auto;
+	margin: 2px;
+	padding: 2px;
+	float: left;
+	border: 1px solid #999;
+	color: #b5111a;
+}
+
+.day{
+	text-align: center;
+	font-weight: bold;
+}
+
+.cell, .cellg, .cellh{
+	position:relative;
+	height: 80px;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.cell h2, .cellh h2{
+	text-align: right;
+	font-size: 1em;
+	padding: 0px;
+	margin: 0px;
+	color: gray;
+}
+
+.cellName, .cellMore{
+margin: 0px;
+padding: 0px;
+font-size: 0.85em;
+font-weight: bold;
+line-height: 1.1;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+
+.cellMore{
+font-style: italic;
+font-weight: normal;
+}
+
+.cellg{
+	background-color: #CCC;
+	cursor: default;
+}
+
+.cellh{
+	background-color: #F5F5DC;
+	border: 2px solid #999;
+	margin: 1px;
+}
+
+#dayInfo h1{
+	border-bottom:1px solid #999;
+	font-size:1.8em;
+	color: #b5111a;
+	margin:0px 0px 0px 0px;
+}
+
+#dayInfo h2{
+	font-size:1.3em;
+	color: #b5111a;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+}
+
+#dayInfo small{
+	font-size:0.85em;
+	color: #000;
+	margin-bottom: 5px;
+	padding: 0px;
+	display:block;
+	font-style: normal;
+}
+
+#dayInfo p{
+	color: #000;
+	padding: 0px;
+	margin: 0px 0px 8px 15px;
+}
+
+.clickable{
+	position:absolute; 
+	width:100%;
+	height:100%;
+	top:0;
+	left: 0;
+	z-index: 1;
+	background-image: url('images/1pxW.gif');
+}
+
+#noScriptInfo{
+	padding: 20px;
+}
+
+
+#noScriptInfo h1{
+	border-bottom:1px solid #999;
+	font-size:1.8em;
+	color: #b5111a;
+	margin:0px 0px 0px 0px;
+}
+
+#noScriptInfo h2{
+	font-size:1.3em;
+	color: #b5111a;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	border-bottom: none;
+}
+
+#content:hover #noScriptInfo h2{
+border-bottom: none;
+color: #b5111a;
+}
+
+#noScriptInfo small{
+	font-size:0.8em;
+	color: #000;
+	margin-bottom: 5px;
+	padding: 0px;
+	display:block;
+	font-style: italic;
+}
+
+#noScriptInfo p{
+	color: #000;
+	padding: 0px;
+	margin: 0px 0px 8px 15px;
+}

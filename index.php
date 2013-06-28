@@ -1,16 +1,19 @@
-<?php
-// Allow access to page includes
-define('CSSS', 1);
-?>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
   
   <link rel="stylesheet" href="includes/style.css" type="text/css" />
-  
-<?php @include('includes/header.php'); ?>
+<script type="text/javascript">
+$.ajax({
+url: "includes/events2.php",
+content: document.body,
+success: function(data) {
+	$(events).html(data);
+}
+});
+</script>
+<?php @include('includes/header.inc.php'); ?>
 <div id="main">
   <h1>
 	Computing Science Student Society
@@ -121,11 +124,13 @@ If you are interested in volunteering with the CSSS, please email
   </div>
   <div class="box">
 	<h1>CUTC Infect</h1>
-	<a href='http://infect.cutc.ca/' target='_blank'><img src='images/CUTC-Logo.png' /></a>
+	<a href='http://infect.cutc.ca/' target='_blank'><img src='images/CUTC-Logo.png' alt='CUTC Logo'/></a>
   </div>
-  <!-- BEGIN EVENTS -->
-  <?php @include("includes/events.php"); ?>
-  <!-- END EVENTS -->
+  <div id="events" class="box">
+    <h1>Upcoming Events</h1>
+    <hr style="margin-top: 14px; margin-bottom: 14px;" />
+    <p>Follow us on <a href="http://www.facebook.com/group.php?gid=2203105681" target="_blank">Facebook</a> for the latest events.</p>
+  </div>
   <div class="box">
 	<h1>
 	  Minutes
@@ -169,5 +174,5 @@ If you are interested in volunteering with the CSSS, please email
   </div>
 </div>
 <?php
-@include('includes/footer.php');
+@include('includes/footer.inc.php');
 ?>
