@@ -330,18 +330,3 @@ display:block;
 display: none;
 }
 
-#markdownEx table, #markdownEx th, #markdownEx td{
-border: 1px solid gray;
-border-collapse: collapse;
-padding: 3px;
-}
-
-#markdownEx th{
-background-color: DarkGray;
-color: white;
-}
-
-#markdownEx tr.alt td{
-background-color: LightGray;
-}
-

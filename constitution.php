@@ -1,6 +1,4 @@
 <?php
-// Allow access to page includes
-define('CSSS', 1);
 define('TITLE', "Constitution");
 ?>
 
@@ -11,7 +9,7 @@ define('TITLE', "Constitution");
   
   <link rel="stylesheet" href="includes/style.css" type="text/css" />
   
-<?php @include('includes/header.php'); ?>
+<?php @include('includes/header.inc.php'); ?>
  
  <div id="content">
 
@@ -1353,5 +1351,5 @@ version 4.01.<br />On 20 Jan 2013, 00:47.</small>
 </div>
 	  
 <?php
-@include('includes/footer.php');
+@include('includes/footer.inc.php');
 ?>

@@ -1,6 +1,4 @@
 <?php
-// Allow access to page includes
-define('CSSS', 1);
 define('TITLE', 'Volunteer of the Year');
 ?>
 
@@ -11,7 +9,7 @@ define('TITLE', 'Volunteer of the Year');
   
   <link rel="stylesheet" href="includes/style.css" type="text/css" />
   
-<?php @include('includes/header.php'); ?>
+<?php @include('includes/header.inc.php'); ?>
   <div id="content">
 	  <h1>Volunteer of the Year Awards</h1>
 	  <p>
@@ -23,6 +21,6 @@ define('TITLE', 'Volunteer of the Year');
 	  </p>
   </div>
 <?php
-@include('includes/footer.php');
+@include('includes/footer.inc.php');
 ?>
 
