@@ -4,6 +4,7 @@
   <head>
   
   <link rel="stylesheet" href="includes/style.css" type="text/css" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type='text/javascript'></script> 
 <script type="text/javascript">
 $.ajax({
 url: "includes/events2.php",
