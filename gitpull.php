@@ -3,15 +3,16 @@
 writeToLog($dbSession, $SESSION['username'], $SESSION['ip'], 'Pulled from git');
 header('Content-Type: application/json');
 $rev = `git rev-parse HEAD`;
-echo '{"status_msg":"';
-echo rtrim(`git pull`);
-echo '<br />';
-echo rtrim(`git submodule update`);
-echo '", "sha":"';
+$output = '{"status_msg":"';
+$output .= (`git pull`);
+$output .= (`git submodule update`);
+$output .= '", "sha":"';
 $newrev = `git rev-parse HEAD`;
-echo rtrim($newrev);
-echo '"}';
+$output .= ($newrev);
+$output .= '"}';
 if ($newrev != $rev) {
 	writeToLog($dbSession, $SESSION['username'], $SESSION['ip'], 'Git now at ' . `git rev-parse --short HEAD`);
 }
+$output = str_replace('\n', '<br />', $output);
+echo $output;
 ?>
