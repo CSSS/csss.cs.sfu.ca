@@ -265,7 +265,7 @@ float: left;
 padding-left: 20px;
 }
 
-.eventDesc ol, ul{
+.eventDesc ol, .eventDesc ul{
 	margin:0px;
 }
 
