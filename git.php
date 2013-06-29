@@ -15,7 +15,6 @@ function updateGitInfo() {
 	url: "https://api.github.com/repos/csss/csss.cs.sfu.ca/commits",
 	content: document.body,
 	success: function(data) {
-		console.log(data);
 		var text = "Current commit: " + data[0].sha + "<br />";
 		$(github).html(text);
 	}
@@ -26,7 +25,6 @@ function pullGit() {
 	url: "gitpull.php",
 	content: document.body,
 	success: function(data) {
-		console.log(data);
 		$(status_msg).html(data.status_msg);
 		var text = "Current commit: " + data.sha + "<br />";
 		$(gitlocal).html(text);
