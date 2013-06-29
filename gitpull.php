@@ -13,6 +13,6 @@ $output .= '"}';
 if ($newrev != $rev) {
 	writeToLog($dbSession, $SESSION['username'], $SESSION['ip'], 'Git now at ' . `git rev-parse --short HEAD`);
 }
-$output = str_replace('\n', '<br />', $output);
+$output = str_replace("\n", '<br />', $output);
 echo $output;
 ?>
