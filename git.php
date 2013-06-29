@@ -29,7 +29,7 @@ function pullGit() {
 		console.log(data);
 		$(status_msg).html(data.status_msg);
 		var text = "Current commit: " + data.sha + "<br />";
-		$(local).html(text);
+		$(gitlocal).html(text);
 	}
 	});
 }
