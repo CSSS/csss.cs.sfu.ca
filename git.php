@@ -15,7 +15,7 @@ function updateGitInfo() {
 	url: "https://api.github.com/repos/csss/csss.cs.sfu.ca/commits",
 	content: document.body,
 	success: function(data) {
-		var text = "Current commit: " + data[0].sha + "<br />";
+		var text = "Remote commit: " + data[0].sha + "<br />";
 		$(github).html(text);
 	}
 	});
@@ -26,7 +26,7 @@ function pullGit() {
 	content: document.body,
 	success: function(data) {
 		$(status_msg).html(data.status_msg);
-		var text = "Current commit: " + data.sha + "<br />";
+		var text = "Local commit: " + data.sha + "<br />";
 		$(gitlocal).html(text);
 	}
 	});
@@ -43,7 +43,7 @@ updateGitInfo();
 </div>
 <div id='gitlocal'>
 <?php
-echo 'Current revision: ';
+echo 'Local revision: ';
 echo `git rev-parse HEAD`;
 ?>
 </div>
