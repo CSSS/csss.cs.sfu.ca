@@ -10,17 +10,14 @@
 	<link rel='stylesheet' href='includes/style.css' type='text/css' />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type='text/javascript'></script>
 	<script type='text/javascript'>
-function setCommit(commit) {
-	var text = "Current commit: " + commit + "<br />";
-	$(git).html(text);
-}
 function updateGitInfo() { 
 	$.ajax({
 	url: "https://api.github.com/repos/csss/csss.cs.sfu.ca/commits",
 	content: document.body,
 	success: function(data) {
 		console.log(data);
-		setCommit(data[0].sha);
+		var text = "Current commit: " + data[0].sha + "<br />";
+		$(github).html(text);
 	}
 	});
 }
@@ -31,8 +28,8 @@ function pullGit() {
 	success: function(data) {
 		console.log(data);
 		$(status_msg).html(data.status_msg);
-		setCommit(data.sha);
-		
+		var text = "Current commit: " + data.sha + "<br />";
+		$(local).html(text);
 	}
 	});
 }
@@ -43,14 +40,15 @@ updateGitInfo();
 <div id='content'>
 	<h1>Git</h1>
 <a href="#" onclick="pullGit()">Update</a>
-<div id='git'>
+<div id='github'>
 	Loading
 </div>
+<div id='gitlocal'>
 <?php
 echo 'Current revision: ';
 echo `git rev-parse HEAD`;
-echo '<br />';
 ?>
+</div>
 <div id='status_msg'>
 </div>
 </div>
