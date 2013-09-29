@@ -20,43 +20,43 @@ function iCalDecoder($site){
 				$result[0][$i] = substr($result[0][$i], 1);
 			}
 			
-			$event = explode("ORGANIZER:", $result[0][$i]);
+			//$event = explode("ORGANIZER:", $result[0][$i]);
 
-			$event = explode("DTSTART:", $event[1]);
+			//$event = explode("DTSTART:", $event[1]);
 			
 			//Split first
-			$event = explode("DTEND:", $event[1]);
+			//$event = explode("DTEND:", $event[1]);
 			
 			//Start is @ $event[0]
 			//$icalarray[$i]['DTSTART'] = $event[0];
 			$icalarray[$i]['DTSTART'] = substr($result[0][$i], strpos($result[0][$i], 'DTSTART:')+8, strpos($result[0][$i], 'DTEND:') - strpos($result[0][$i], 'DTSTART:')-8);
 
-			$event = explode("UID:", $event[1]);
+			//$event = explode("UID:", $event[1]);
 			//End is @ $event[0]
 			//$icalarray[$i]['DTEND'] = $event[0];
 			$icalarray[$i]['DTEND'] = substr($result[0][$i], strpos($result[0][$i], 'DTEND:')+6, strpos($result[0][$i], 'UID:') - strpos($result[0][$i], 'DTEND:')-6);
 
-			$event = explode("SUMMARY:", $event[1]);
+			//$event = explode("SUMMARY:", $event[1]);
 			//UID is @ $event[0]
 			//$icalarray[$i]['UID'] = $event[0];
 			$icalarray[$i]['UID'] = substr($result[0][$i], strpos($result[0][$i], 'UID:')+4, strpos($result[0][$i], 'SUMMARY:') - strpos($result[0][$i], 'UID:')-4);
 
-			$event = explode("LOCATION:", $event[1]);
+			//$event = explode("LOCATION:", $event[1]);
 			//Summary is @ $event[0]
 			//$icalarray[$i]['SUMMARY'] = $event[0];
 			$icalarray[$i]['SUMMARY'] = substr($result[0][$i], strpos($result[0][$i], 'SUMMARY:')+8, strpos($result[0][$i], 'LOCATION:') - strpos($result[0][$i], 'SUMMARY:')-8);
 			
-			$event = explode("URL:", $event[1]);
+			//$event = explode("URL:", $event[1]);
 			//Location is @ $event[0]
 			//$icalarray[$i]['LOCATION'] = $event[0];
 			$icalarray[$i]['LOCATION'] = substr($result[0][$i], strpos($result[0][$i], 'LOCATION:')+9, strpos($result[0][$i], 'URL:') - strpos($result[0][$i], 'LOCATION:')-9);
 			
-			$event = explode("DESCRIPTION:", $event[1]);
+			//$event = explode("DESCRIPTION:", $event[1]);
 			//URL is in $event[0]
 			//$icalarray[$i]['URL'] = $event[0];
 			$icalarray[$i]['URL'] = substr($result[0][$i], strpos($result[0][$i], 'URL:')+4, strpos($result[0][$i], 'DESCRIPTION:') - strpos($result[0][$i], 'URL:')-4);
 			
-			$event = explode("CLASS:", $event[1]);
+			//$event = explode("CLASS:", $event[1]);
 			//Description is @ $event[0]
 			//Close up last explosion
 			//$icalarray[$i]['DESCRIPTION'] = $event[0];	

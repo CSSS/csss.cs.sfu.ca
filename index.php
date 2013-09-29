@@ -56,10 +56,12 @@ success: function(data) {
     Navin Gidha - <b>President</b><br/>
     Steven Xu - <b>Vice-President</b><br/>
     Mark Lui - <b>Treasurer</b><br/>
-    Matt Grandy - <b>Director of Resources</b><br/>
-    Ivan Jelinic - <b>Director of Activities</b><br/>
-    Chris Hamilton - <b>Secretary</b><br/>
-    Daniel Haselhan - <b>Executive at Large</b>
+    Kristina Vandergulik - <b>Director of Resources</b><br/>
+    Kenneth Kwok - <b>Director of Activities</b><br/>
+    Nicholas Hoekstra - <b>Secretary</b><br/>
+    Colin Woodbury - <b>Executive at Large</b><br/>
+    Kristina Vandergulik - <b>SFSS Forum Representative</b><br/>
+    Alex Land &amp; Max Proske - <b>First Year Representatives</b>
   </p>
   <h1>
 	Mailing Lists
