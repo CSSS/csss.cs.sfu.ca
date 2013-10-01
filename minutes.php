@@ -19,6 +19,7 @@ function dirList ($dir, $level = 0)
 
 	// Remove unwanted entries
 	if (($idx = array_search('minutes_pre1990_unknown-01.png', $files)) !== FALSE) unset($files[$idx]);
+	if (($idx = array_search('README.md', $files)) !== FALSE) unset($files[$idx]);
 	$files = array_values($files);
 
 	// Move subdirectories to the top of the list
