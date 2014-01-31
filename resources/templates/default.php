@@ -4,7 +4,7 @@
     <ul id="galleryList" class="clearfix">
 
         <?php foreach ($images as $image): ?>
-            <li><a href="<?php echo $image['file_path']; ?>" title="<?php echo $image['file_title']; ?>" rel="<?php echo $relText; ?>"><img src="<?php echo $image['thumb_path']; ?>" alt="<?php echo $image['file_title']; ?>"/></a></li>
+            <li><a target="_self" href="<?php echo $image['file_path']; ?>" title="<?php echo $image['file_title']; ?>" rel="<?php echo $relText; ?>"><img src="<?php echo $image['thumb_path']; ?>" alt="<?php echo $image['file_title']; ?>"/></a></li>
         <?php endforeach; ?>
 
     </ul>
@@ -18,7 +18,7 @@
                     
                     <li class="<?php echo $item['class']; ?>">
                         <?php if (!empty($item['href'])): ?>
-                            <a href="<?php echo $item['href']; ?>"><?php echo $item['text']; ?></a>
+                            <a target="_self" href="<?php echo $item['href']; ?>"><?php echo $item['text']; ?></a>
                         <?php else: ?>
                             <?php echo $item['text']; ?>
                         <?php endif; ?>
