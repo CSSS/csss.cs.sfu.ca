@@ -345,3 +345,14 @@ color: white;
 background-color: LightGray;
 }
 
+.minutes {
+padding:0;
+}
+
+.folder {
+list-style: none;
+}
+.folder ul {
+list-style: none;
+}
+

@@ -1,0 +1,20 @@
+<div id="content">
+
+	<h1>
+		<a name="top">Minutes</a>
+	</h1>
+
+<script type="text/ng-template" id="dir_renderer.html">
+    <li><h2><div class="iconsprite open">&nbsp;</div>{{dir.name}} </h2>
+    <ul>
+    <div class="folder" ng-repeat="dir in dir.contents.dirs" ng-include="'dir_renderer.html'"></div>
+    <li ng-repeat="file in dir.contents.files"><div class="iconsprite {{file.thumb}}">&nbsp;</div><a target="_self" href="{{file.path}}"> {{file.name}} </a> </li>
+    </ul>
+    </li>
+</script>
+
+<ul class="minutes">
+<div class="folder" ng-repeat="dir in minutes.dirs" ng-include="'dir_renderer.html'">
+</div>
+</ul>
+</div>
