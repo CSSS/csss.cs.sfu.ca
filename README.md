@@ -1,4 +1,6 @@
 website
 =======
 
-csss.cs.sfu.ca
+Website for the CSSS at sfu.
+
+http://sfucsss.org/
