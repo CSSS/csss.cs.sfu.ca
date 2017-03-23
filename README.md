@@ -1,4 +1,4 @@
 website
 =======
 
-csss.cs.sfu.ca
+http://sfucsss.org/
